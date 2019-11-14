@@ -2,6 +2,13 @@
 
 Learning to build embedded shopify app.
 
+### Environment Variables
+
+```sh
+SHOPIFY_API_KEY=<KEY>
+SHOPIFY_API_SECRET_KEY=<SECRET>
+```
+
 ### References
 
 ```sh
